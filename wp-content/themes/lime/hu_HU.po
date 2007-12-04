@@ -1,0 +1,207 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Lime HUN\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2007-12-05 16:21+0100\n"
+"Last-Translator: Vector Akashi <vector @ cod2-cfg .tk>\n"
+"Language-Team: Vector Akashi <vector @ cod2-cfg .tk>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Hungarian\n"
+"X-Poedit-Country: HUNGARY\n"
+"X-Poedit-SourceCharset: iso-8859-2\n"
+
+#: wp-content/themes/lime/archives.php:13
+msgid "Jan"
+msgstr "Jan"
+
+#: wp-content/themes/lime/archives.php:13
+msgid "Feb"
+msgstr "Feb"
+
+#: wp-content/themes/lime/archives.php:13
+msgid "Mar"
+msgstr "Már"
+
+#: wp-content/themes/lime/archives.php:13
+msgid "Apr"
+msgstr "Ápr"
+
+#: wp-content/themes/lime/archives.php:13
+msgid "May"
+msgstr "Máj"
+
+#: wp-content/themes/lime/archives.php:13
+msgid "Jun"
+msgstr "Jún"
+
+#: wp-content/themes/lime/archives.php:13
+msgid "Jul"
+msgstr "Júl"
+
+#: wp-content/themes/lime/archives.php:13
+msgid "Aug"
+msgstr "Aug"
+
+#: wp-content/themes/lime/archives.php:13
+msgid "Sep"
+msgstr "Szep"
+
+#: wp-content/themes/lime/archives.php:13
+msgid "Oct"
+msgstr "Okt"
+
+#: wp-content/themes/lime/archives.php:13
+msgid "Nov"
+msgstr "Nov"
+
+#: wp-content/themes/lime/archives.php:13
+msgid "Dec"
+msgstr "Dec"
+
+#: wp-content/themes/lime/archives.php:30
+#: wp-content/themes/lime/header.php:15
+msgid "Archives"
+msgstr "Archívum"
+
+#: wp-content/themes/lime/archives.php:35
+#: wp-content/themes/lime/footer.php:22
+msgid "Categories"
+msgstr "Kategóriák"
+
+#: wp-content/themes/lime/archives.php:40
+msgid "All posts"
+msgstr "Összes bejegyzés"
+
+#: wp-content/themes/lime/comments.php:3
+msgid "Forbidden for you!"
+msgstr "Neked tilos!"
+
+#: wp-content/themes/lime/comments.php:3
+msgid "Start here..."
+msgstr "Kezd innen..."
+
+#: wp-content/themes/lime/comments.php:9
+msgid "You have to give the password to see the comments!"
+msgstr "Meg kell adnod a jelszót, hogy láthasd a hozzászólásokat!"
+
+#: wp-content/themes/lime/comments.php:20
+#: wp-content/themes/lime/index.php:30
+#: wp-content/themes/lime/page.php:46
+#: wp-content/themes/lime/single.php:44
+msgid "Have a Voice"
+msgstr "Szólj hozzá"
+
+#: wp-content/themes/lime/comments.php:20
+#: wp-content/themes/lime/comments.php:118
+#: wp-content/themes/lime/index.php:30
+#: wp-content/themes/lime/page.php:46
+#: wp-content/themes/lime/single.php:44
+msgid "Comment"
+msgstr "Hozzászólás"
+
+#: wp-content/themes/lime/comments.php:20
+#: wp-content/themes/lime/index.php:30
+#: wp-content/themes/lime/page.php:46
+#: wp-content/themes/lime/single.php:44
+msgid "Comments"
+msgstr "Hozzászólás"
+
+#: wp-content/themes/lime/comments.php:34
+#: wp-content/themes/lime/comments.php:47
+msgid "Your comment is waiting for approval."
+msgstr "A hozzászólásod megerősítésre vár."
+
+#: wp-content/themes/lime/comments.php:60
+msgid "Comments closed!"
+msgstr "Hozzászólások lezárva!"
+
+#: wp-content/themes/lime/comments.php:66
+msgid "Log in"
+msgstr "Jelentkezz be"
+
+#: wp-content/themes/lime/comments.php:66
+msgid "to have a voice."
+msgstr "hogy szót kaphass."
+
+#: wp-content/themes/lime/comments.php:80
+msgid "Your opinion?"
+msgstr "Véleményed van?!"
+
+#: wp-content/themes/lime/comments.php:87
+msgid "You are logged in as"
+msgstr "Be vagy jelentkezve"
+
+#: wp-content/themes/lime/comments.php:87
+msgid "&#46;"
+msgstr " néven."
+
+#: wp-content/themes/lime/comments.php:87
+msgid "Log out"
+msgstr "Kijelentkezés"
+
+#: wp-content/themes/lime/comments.php:93
+msgid "Name"
+msgstr "Neved"
+
+#: wp-content/themes/lime/comments.php:98
+msgid "E-Mail"
+msgstr "E-Mailed"
+
+#: wp-content/themes/lime/comments.php:98
+msgid "(we keep it secret)"
+msgstr "(titok marad)"
+
+#: wp-content/themes/lime/comments.php:103
+msgid "Webpage"
+msgstr "Weblapod"
+
+#: wp-content/themes/lime/comments.php:115
+msgid "Send"
+msgstr "Mehet"
+
+#: wp-content/themes/lime/comments.php:117
+msgid "The xHTML tags you can use:"
+msgstr "Használható xHTML tagek:"
+
+#: wp-content/themes/lime/footer.php:28
+#: wp-content/themes/lime/footer.php:43
+msgid "queries"
+msgstr "lekérés"
+
+#: wp-content/themes/lime/footer.php:28
+#: wp-content/themes/lime/footer.php:43
+msgid "sec"
+msgstr "mp"
+
+#: wp-content/themes/lime/index.php:21
+#: wp-content/themes/lime/page.php:37
+#: wp-content/themes/lime/single.php:35
+msgid "More &#187;"
+msgstr "Tovább &#187;"
+
+#: wp-content/themes/lime/index.php:46
+#: wp-content/themes/lime/page.php:62
+#: wp-content/themes/lime/single.php:60
+msgid "Previous"
+msgstr "Előző"
+
+#: wp-content/themes/lime/index.php:46
+#: wp-content/themes/lime/page.php:62
+#: wp-content/themes/lime/single.php:60
+msgid "Next"
+msgstr "Következő"
+
+#: wp-content/themes/lime/index.php:49
+#: wp-content/themes/lime/page.php:65
+#: wp-content/themes/lime/single.php:63
+msgid "404 - Nothing here..."
+msgstr "404 - Sehol semmi..."
+
+#: wp-content/themes/lime/index.php:49
+#: wp-content/themes/lime/page.php:65
+#: wp-content/themes/lime/single.php:63
+msgid "The page you are looking for is not here, or it was deleted."
+msgstr "Olyan dolgot keresel ami lehet, hogy itt sem volt."
+
